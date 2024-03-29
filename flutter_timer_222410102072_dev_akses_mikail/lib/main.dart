@@ -9,7 +9,7 @@ class MyApp extends StatelessWidget {
   @override
   Widget build(BuildContext context) {
     return MaterialApp(
-      title: 'Flutter Timer',
+      title: 'Dev Akses Mikail/222410102072',
       theme: ThemeData(
         primarySwatch: Colors.blue,
       ),
@@ -96,7 +96,7 @@ class _TimerPageState extends State<TimerPage> {
   Widget build(BuildContext context) {
     return Scaffold(
       appBar: AppBar(
-        title: Text('Flutter Timer'),
+        title: Text('Dev Akses Mikail/222410102072'),
       ),
       body: Center(
         child: Column(
